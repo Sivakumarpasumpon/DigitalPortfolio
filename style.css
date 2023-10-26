@@ -1,0 +1,88 @@
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .header {
+            background-color:#333 ;
+            color:whitesmoke;
+            text-align: left;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #444;
+            text-align: left;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+
+        nav a:hover {
+            background-color: #555;
+        }    
+         .fcontainer {
+            max-width: 1500px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color:black;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color:black;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .container {
+            -webkit-text-fill-color: #f0f0f0;
+        }
+
+        .header h1 {
+            color: white;
+        }
+
+        
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h1{
+            -webkit-text-fill-color: aqua;
+        }
+
+        .section h3{
+             -webkit-text-fill-color: yellowgreen;
+        }
+        
+
+        .remedy {
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        .remedy h3{
+            color: blue;
+        }
+        .image src{
+            max-width: 100px;
+            margin: 10px auto;
+            padding: 10px;
+            background-color: black;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ 
+        }
+        .image h1{
+            color: darkred;
+        }
+
+        
+    </style>
